@@ -1,1 +1,8 @@
-
+langchain-openai  
+langchain  
+langchain-community  
+langchain-google-genai  
+sentence-transformers  
+langchain-core  
+neo4j  
+flask
