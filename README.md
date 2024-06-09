@@ -3,7 +3,10 @@ A complex pharmaceutical recommendation system that makes use of cutting-edge te
 
 ## Appendices
 Author 1 Profile
-** Aakash Walavalkar 
+_Aakash Walavalkar_
+Github reop : [https://github.com/tech-aakash](url)
+Linkedin profile : [https://www.linkedin.com/in/aakash-walavalkar/](url)
+Portfolio : [https://www.triumphai.in/aakash-walavalkar](url)
 
 ## Below are the screenshots of the demo flask application
 
