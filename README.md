@@ -11,6 +11,10 @@ _Data Scientist & Founder at Triumph.AI_
 2. Linkedin profile : [https://www.linkedin.com/in/aakash-walavalkar/](url)
 3. Portfolio : [https://www.triumphai.in/aakash-walavalkar](url)
 
+
+## Diagram of the proposed soltion
+![medicine](https://github.com/Kallind/Semantic-Search-Based-Medicine-Recommender-with-LangChain-Google-Search-Agent/assets/162134525/e825fbc9-4c66-416e-9fd5-92d82b96cf3b)
+
 ## Below are the screenshots of the demo flask application
 
 ### Test for available medicine in database
