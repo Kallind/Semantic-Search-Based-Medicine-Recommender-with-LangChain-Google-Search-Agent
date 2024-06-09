@@ -3,7 +3,7 @@ A complex pharmaceutical recommendation system that makes use of cutting-edge te
 
 ## Appendices
 Author 1 Profile
-_Aakash Walavalkar_
+_Aakash Walavalkar_ |
 _Data Scientist & Founder at Triumph.AI_ 
 **Useful Links**
 1. Github reop : [https://github.com/tech-aakash](url)
