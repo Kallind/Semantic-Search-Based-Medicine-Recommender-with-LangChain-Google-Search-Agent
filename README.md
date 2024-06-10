@@ -7,7 +7,7 @@ _Aakash Walavalkar_ |
 _Data Scientist & Founder at Triumph.AI_ 
 
 **Useful Links**
-1. Github reop : [https://github.com/tech-aakash]([url](https://github.com/tech-aakash))
+1. Github reop : [https://github.com/tech-aakash](https://github.com/tech-aakash)
 2. Linkedin profile : [https://www.linkedin.com/in/aakash-walavalkar/](url)
 3. Portfolio : [https://www.triumphai.in/aakash-walavalkar](url)
 
