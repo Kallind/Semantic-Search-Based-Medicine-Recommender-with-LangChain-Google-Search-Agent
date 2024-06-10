@@ -8,11 +8,11 @@ _Data Scientist & Founder at Triumph.AI_
 
 **Useful Links**
 1. Github reop : [https://github.com/tech-aakash](https://github.com/tech-aakash)
-2. Linkedin profile : [https://www.linkedin.com/in/aakash-walavalkar/](url)
-3. Portfolio : [https://www.triumphai.in/aakash-walavalkar](url)
+2. Linkedin profile : [https://www.linkedin.com/in/aakash-walavalkar/](https://www.linkedin.com/in/aakash-walavalkar/)
+3. Portfolio : [https://www.triumphai.in/aakash-walavalkar](https://www.triumphai.in/aakash-walavalkar)
 
 
-## Diagram of the proposed soltion
+## Diagram of the proposed solution
 ![medicine](https://github.com/Kallind/Semantic-Search-Based-Medicine-Recommender-with-LangChain-Google-Search-Agent/assets/162134525/e825fbc9-4c66-416e-9fd5-92d82b96cf3b)
 
 ## Below are the screenshots of the demo flask application
