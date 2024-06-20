@@ -13,7 +13,7 @@ _Data Scientist & Founder at Triumph.AI_
 
 Author 2 :
 _Jay Ajmera_ |
-_GenAI & NLP Practioner_ 
+_GenAI & NLP Practitioner_ 
 
 **Useful Links**
 1. Github reop : [https://github.com/JayAjmera0](url)
