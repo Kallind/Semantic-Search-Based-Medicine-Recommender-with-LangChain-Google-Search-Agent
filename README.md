@@ -11,7 +11,7 @@ _Data Scientist & Founder at Triumph.AI_
 2. Linkedin profile : [https://www.linkedin.com/in/aakash-walavalkar/](https://www.linkedin.com/in/aakash-walavalkar/)
 3. Portfolio : [https://www.triumphai.in/aakash-walavalkar](https://www.triumphai.in/aakash-walavalkar)
 
-Author 1 :
+Author 2 :
 _Jay Ajmera_ |
 _GenAI & NLP Practioner_ 
 
