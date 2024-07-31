@@ -16,16 +16,16 @@ _Jay Ajmera_ |
 _GenAI & NLP Practitioner_ 
 
 **Useful Links**
-1. Github repo : [https://github.com/JayAjmera0](url)
-2. Linkedin profile : [https://www.linkedin.com/in/jay-ajmera/](url)
+1. Github repo : [https://github.com/JayAjmera0](https://github.com/JayAjmera0)
+2. Linkedin profile : [https://www.linkedin.com/in/jay-ajmera/](https://www.linkedin.com/in/jay-ajmera)
 
 Author 3 :
 _Kallind Soni_ |
 _GenAI & NLP Practitioner_ 
 
 **Useful Links**
-1. Github repo : [https://github.com/Kallind](url)
-2. Linkedin profile : [https://www.linkedin.com/in/kallindsoni/](url)
+1. Github repo : [https://github.com/Kallind](https://github.com/Kallind)
+2. Linkedin profile : [https://www.linkedin.com/in/kallindsoni/](https://www.linkedin.com/in/kallindsoni/)
 
 ## Diagram of the proposed solution
 ![medicine](https://github.com/Kallind/Semantic-Search-Based-Medicine-Recommender-with-LangChain-Google-Search-Agent/assets/162134525/e825fbc9-4c66-416e-9fd5-92d82b96cf3b)
